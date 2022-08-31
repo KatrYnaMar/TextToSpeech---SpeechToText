@@ -11,5 +11,4 @@ Packages used:
               
 Application Execution Procedure: Type, and it will repeat what you have said; speak, and it will type out what you have said. 	
 
-               python speechtotext.py
-               python texttospeech.py
+               python TTS-STT.py
